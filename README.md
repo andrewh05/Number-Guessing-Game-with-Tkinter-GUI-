@@ -23,7 +23,3 @@ Python 3.x
 Tkinter (usually included with Python installations)
 Usage: Clone the repository and run number_guessing_game_gui.py to start playing.
 
-Future Enhancements:
-
-Add a reset button to start a new game.
-Implement difficulty levels with different ranges and a limited number of attempts.
