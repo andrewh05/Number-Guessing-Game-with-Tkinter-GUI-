@@ -21,5 +21,5 @@ Requirements:
 
 Python 3.x
 Tkinter (usually included with Python installations)
-Usage: Clone the repository and run number_guessing_game_gui.py to start playing.
+Usage: Clone the repository and run number_guessing_game_gui.py to start playing. 
 
